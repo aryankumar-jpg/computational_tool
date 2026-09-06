@@ -1,0 +1,4 @@
+Name: amar, Marks: [85.0, 90.0, 78.0], Total: 253.00, Average: 84.33, Grade: A
+Name: akbar, Marks: [65.0, 70.0, 72.0], Total: 207.00, Average: 69.00, Grade: C
+Name: anthony, Marks: [92.0, 95.0, 88.0], Total: 275.00, Average: 91.67, Grade: A+
+Name: happy, Marks: [45.0, 50.0, 55.0], Total: 150.00, Average: 50.00, Grade: D

@@ -10,7 +10,7 @@ def calfact(n):
             factorial*=i
         print(factorial) 
 
-
+#jhgjgghg
 def prime(inp):
     if inp<=1:
         print("not prime")
